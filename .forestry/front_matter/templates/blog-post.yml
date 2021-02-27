@@ -29,6 +29,10 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - content/blog-posts/adult-content-tax-filing-tips.md
 - content/blog-posts/adult-friendly-payment-methods.md
