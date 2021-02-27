@@ -6,83 +6,84 @@ date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
-The majority of sites for selling your adult content take a cut of your sales, the profit split is in the description for these websites. The first number is the sellers cut and the second number is the websites cut of the sale. For example, (75/25) means the seller keeps 75% and the website keeps 25%.
+# 1. Research & Safety
 
-Some sites will have different rates for tributes or tips which tend to be more in the sellers favor. Tips are at a higher risk of chargebacks where applicable though, since if someone pays for something by tip, it is harder to prove that they got what they paid for compared to a direct payment. Accepting tips/tributes for services is not recommended.
+Camming is an industry that is often misunderstood - People see it as quick, easy money, often with minimal consequences. Understanding the industry, knowing the work it involves, and assessing the risks are all very important steps to take before deciding whether or not it is for you.
 
-***
+[**Click here to watch /u/alittlekink's video on Research & Safety**](https://www.youtube.com/watch?v=0BGkb2b-y5o&src_vid=7CZ-UEOKPIM&feature=iv&annotation_id=annotation_898593291)
 
-**Please note that these sites often require proof of age by having you send in a photo of your ID. This image is never shared with anyone and is only ever used for administrative purposes.**
+# 2. Electronic Equipment
 
-**Many sites also require you to show your face on cam/in pics, so as to show that you are the person whose ID was submitted. Be sure to read every websites Terms of Service thoroughly before signing up!**
+In order to maximize your appeal, you have to make sure you look good! This means having:
 
-**These sites will send you a 1099 and you WILL have to file taxes as an independent contractor, which will also require your social security number or tax id (if you are in the United States). For more advice on filing taxes,** [**click here**](https://old.reddit.com/r/sellercirclestage/w/taxes)**.**
+* Good Lighting: options include soft boxes, umbrella lights, or regular lamps
+* HD Webcam: the most popular/recommended is the Logitech C920 but preferably anything at least 720p HD ideally 1080p
+* Fast Computer: i7 processor preferred, dual core processor (quad core is better) - you can build your own computer customized for camming for much cheaper than store bought, check out[/r/buildapc](https://old.reddit.com/r/buildapc) to learn more
+* Fast Internet Connection: always use ethernet when you can, upload speed is more important for camming than download
 
-***
+Viewers love watching performers whose cams look crisp and clear!
 
-## Hosts for Listings
+[**Click here to watch /u/alittlekink's video on Electronic Equipment**](https://www.youtube.com/watch?v=7CZ-UEOKPIM&src_vid=0BGkb2b-y5o&feature=iv&annotation_id=annotation_13355867)
 
-**CamModelDirectory.com**: (75/25 - 80/20) Post ads for camshows, videos, and other services! This site is very hands off when it comes to your shows content or what you are selling. Shows are done via Skype or Yahoo. Ads are free to post, and I don't believe there is a limit to the number of ads you can put up. Ads must be pre-approved before they go live. Ads are sorted by category, so posting ads in as many different categories as possible will increase your chances of being noticed. Each Ad can be placed in up to 5 categories. All ads must have at least one photo but you may list up to five. Face is not required. Ads can also be "bumped" once every five days, which moves your ad up to the top of the list in its category. However you can only bump one ad every five days unless you pay a small fee per month which allows you to bump as many as you'd like as often as you'd like. The site also features paid advertising spots to help you get more exposure.
+# 3. Online Identity
 
-Payments are sent as a lump sum rather than being billed by the minute. You will supply your buyer your link and they can follow it to make payment with your agreed upon total. When you are paid the payment will appear on your Sales Dashboard along with the username of the buyer. You will also receive an email confirmation but it sometimes takes time to show up so it's best to refer to your Sales Dashboard.
+If you are new to camming, you may not even know what all of your limits will be until you encounter someone requesting it. Therefore it's best to decide beforehand what yours are. You may decide that you will only get naked in paid chat, this is a common limit. Some other common limits are:
 
-Payouts are 75/25 until you reach $500 in a month. After the $500 mark has been reached you will earn 80/20 for the remainder of the month. Everyone resets to 75/25 at the beginning of each month. The site offers a cash bonus to the highest earning model each month and gives free advertising spots to the top 5 highest earners.
+* Showing specific body parts such as feet, ass, or stomach.
+* Anal (toy insertion, fingers, anything to do with it)
+* Domination
+* C2C (Cam-to-Cam, viewing a member's webcam)
+* Moaning a member's name
+* Giving out your location (not advised)
+* Dirty talk
+* Certain taboo roleplay scenarios such as incest, racial, rape, etc.
+* Not doing custom content
+* Not doing Skype sessions
 
-The site offers good customer service to sellers/buyers.
+Your limits may change over time and there is nothing wrong with suddenly deciding you are not okay with something you've offered before, or deciding to do something you refused before.
 
-**Extralunchmoney.com**: (60/40) Create a profile on ELM and sell videos, mailable goods, and offer services. Face is not required except for your verification photo which is not public. They also offer their own texting service but it is not widely popular. The nice thing about ELM is that for digital content such as videos and photo sets, payments are immediate - When a buyer selects something to purchase, the money is immediately deposited into your ELM account. For all custom orders/services, payments are put into escrow. This means the buyer sends the money before receiving the service, and the site holds the money. The site then puts the payment into your ELM account once you have confirmed that the order's been sent.
+_Text from camgirlwiki.com_
 
-This site also features a Customer Request section where buyers create requests and state what they are willing to pay.Sellers then click a button that says they can do it if they would like to fulfill the request. The buyer then chooses from the pool of applicants. Another interesting feature of this site is Seller Goal videos. Sellers are allowed to make a short video stating how many credits they are trying to earn and why. The seller offers something in return like a video in exchange for the credits to help them reach their goal.
+[**Click here for more info from camgirlwiki.com**](https://www.camgirlwiki.com/wiki/Consider_your_comfort_zone)
 
-Unfortunately the sellers there have allowed the Buyer Request section to degrade the whole site moneywise. Buyers will list ridiculously low offer prices and sellers will still do the requests. There is money to be made there but you have to be choosy about what you agree to.
+[**Click here to watch /u/alittlekink's video on Online Identity**](https://www.youtube.com/watch?v=GVmjRW8GO54&src_vid=7CZ-UEOKPIM&feature=iv&annotation_id=annotation_1967902061)
 
-Customer Service is pretty much non-existent for sellers on this site.
+# 4. Taxes
 
-**SkyPrivate**: (75/25-80/20) This website is primarily for camshows, as it includes a Skype plug-in that tracks the duration of shows, and bills the viewer accordingly. This site also takes a 25% cut, but you can drop it to 20% if you refer enough people (buyers or sellers) to the site. SkyPrivate also allows direct payments (rather than by-the-minute charges for shows), which buyers can send in return for other goods and services outside of camshows. If you choose to try SkyPrivate, I highly recommend looking into how it works, as there is a lot to it at first. Once you get familiar with it (doesn't really take long) it's easy to use.
+Since joining this industry, it has been widely observed that many performers seem to believe they are somehow magically exempt from taxes. As much as we wish this were true, it is not.
 
-**NiteFlirt.com**: (70/30) Post listings for both phone sex and phone + cam services! You can also sell videos through your listings. Similar to CMD, NF has a variety of categories you can post listings in, so the more listings you make, the more exposure you can get! NF also lets you pay to boost listings, which push your listings up on the list for a period of time. Users will call your phone through the website (callers will NEVER see your phone number), and if it's for a phone + cam show, you will do the show through Skype.
+[**Check out our Wiki page on filing taxes for more info**](http://www.reddit.com/r/SellerCircleStage/wiki/taxes)
 
-**MyGirlFund.com**: (65/35 to start) An advertising platform upon which you can offer camshows, photos, and videos. You are not allowed to sell items or communicate with buyers outside of the site in any way including email. Create a profile, and get paid just to talk to people, too! To create a Profile you must upload a minimum of 5 public profile photos which MUST include your face. It is mandatory that you show your face on this site. MGF is set up a bit like Facebook. You have a "wall" for people to comment and communicate with you on. Each Wall comment that you respond to earns you $1. MGF also had instant chat integrated into the site - You don't get paid to talk through that, but you can set up a per-minute rate if asked to video chat.
+[**Click here to watch /u/alittlekink's video on Taxes**](https://www.youtube.com/watch?v=b6BZNRNwR30&src_vid=GVmjRW8GO54&feature=iv&annotation_id=annotation_3554778775)
 
-**PantyZooShop.com**: This is a free advertising platform for panty selling. They do not handle payments, which means you are responsible for figuring out how to get paid yourself (check our payment options post for ideas). On the bright side, since they don't handle payments, and there are no fees to post ads, there is no profit splitting.
+# Popular Camsites (for non-Skype shows)
 
-**PantyDeal.com**: Free panty advertising platform for sellers. Like PantyZooShop, they do not handle payments so you will need to choose payment methods that work for you.
+* [**MyFreeCams.com**](https://www.camgirlwiki.com/wiki/MyFreeCams): 50% payout, no chargebacks, paid in tokens, more public chat based, has camscore that effects placement
+* [**Streamate.com**](https://www.camgirlwiki.com/wiki/Streamate): 35% payout, no chargebacks, more private based, placement algorithm based on streaming quality, time online, and hourly average
+* [**Cams.com**](https://www.camgirlwiki.com/wiki/Cams.com): 29% maximum payout (can select lower payout, don't do this), has chargebacks but they are fairly rare
+* [**Chaturbate.com**](https://www.camgirlwiki.com/wiki/Chaturbate): 50% payout, no chargebacks, paid in tokens, more public chat based, no camscore like MFC has
+* [**LiveJasmin.com**](https://www.camgirlwiki.com/wiki/LiveJasmin): 30% payout to start, can raise up to 60% [see chart](https://www.stripperweb.com/forum/attachment.php?attachmentid=37439&d=1399260645), private based, has chargebacks, strict picture/streaming requirements
+* **ImLive.com**: 30% payout, has chargebacks, private based, no free chat necessary after 120 free chat hours have been completed, lower promotional rate to start ($0.98/per minute)
+* **FreeWebcams.com**: New camsite, pays 50%, no chargebacks, hybrid of private/public based site, currently leaning more towards public.
+* **Cam4.com**: 50% payout, token based, more public shows with option for privates. No chargebacks. Promotion where you can get paid $10/hour for first 100 hours worked. Must work consistently (if you take more than 1 month off streaming bonus is revoked) email [adriana_cam4@yahoo.com](mailto:adriana_cam4@yahoo.com) to sign up for $10/hr promo.
+* **Adultwork.com**: 65% payout, no chargebacks, option to use their software or book skype shows, free chat optional, UK clients, many fetish customers
+* **MyGirlFund.com**: 65% up to 90% (can 'level up' as you earn more money), has cam platform, no free chat, can also see videos. No chargebacks. Very strict about outside contact. Also has had some issues see: [http://changemgf.tumblr.com/](http://changemgf.tumblr.com/ "http://changemgf.tumblr.com/")
+* **iFriends.com**: 50% payout, has chargebacks, hybrid public/private
+* **Naked.com**: 50% payout, has chargebacks, public/private based
+* **Webcams.com**: 37% payout, occasional chargebacks under certain circumstances, optional free chat
 
-**FinDoms.com**: A place for findom/femdom's to promote their services. This is an advertising platform only, so handling payment methods is the responsibility of the seller/service provider. Check our payment options post for ideas.
+CamGirlWiki is outdated for some sites - Not recommended:
 
-**eBanned.com**: Auction-based site to sell items that are banned from being sold on eBay.
+* **Camwithher/Onhercam**: owners were thieves, sites have now become studios/whitelabels
+* **SkinVideo**: dead site
+* **xHamster**: white label/studio do not join
 
-## Clip Stores
+_Some of this list was copied from and links to CamGirlWiki.com. Check their_ [**POPULAR CAMSITES PAGE**](https://www.camgirlwiki.com/wiki/Current_popular_cam_sites) _for a full list of options._
 
-**Kinkbomb.com**: (60/40) A great site for selling kinky videos! Payment is automatically made whenever a buyer downloads content. This site is non-interactive so you do not communicate with buyers. You simply upload your content, choose a price, and then it's available for purchase by KB members.
+# Cam-sites for Skype Shows
 
-**Clips4Sale.com**: (60/40) Similar to KinkBomb, but buyers can email you to request custom videos, which you can either upload to your page for them to purchase, or they can send you a tribute and you can send them the video directly.
-
-**Sutracamp.com**: (70/30) Selling platform similar to clips4sale. Fairly new website with less traffic. Accepts a number of payment options including Bitcoin.
-
-**Yezzclips.com**: (60/40) This is a clipstore, like KinkBomb and Clips4Sale. The big difference is that it welcomes hardcore clips that other sites do not allow, such as scat videos. There is a fee for sellers to receive non-EU payments from the site, but because it is such a niche market, if you offer content that suits the site, it can still be worth using.
-
-**ScatShop.com**: (60/40) A newly opened clipstore, catering to scat fetish content.
-
-More...
-
-* **Clipvia.com** (?/?)
-* **IWantClips.com** (?/?)
-
-## Live Camshow Streaming
-
-**Streamate.com**: (30/70 to start) Very popular 'big box' cam site. They are easy to use and a good place to start camming. They are very strict on content (no taboo, period shows, pee, scat, ect) but it is also possible to sell photos and videos through them.
-
-**MyFreeCams.com**: (50/50) Another very popular site, focuses heavily on public chat and tipping as opposed to private shows.
-
-**Chaturbate.com**: (50/50) Recommended for newbies as there is no 'score' kept for models, evening the playing field for new models.
-
-**LiveJasmin.com**: (?/?) Very popular site that focuses heavily on camera and picture quality.
-
-**Camcontacts.com**: (50/50) Less busy than other sites but recommended.
-
-More...
-
-* **Cams.com** (\~30/70) - _Tip from_ [_/u/mirabellahue _](https://old.reddit.com/u/mirabellahue)_"You can adjust your percentage (they "say" the highest you get is 45% but it's really 29% after "fees" and you can lower it to 19% after fees saying they "improve your placement" but that is not true, keep it at 45 aka 29%"_
-* **ImLive.com** - (30-35/70-65)
-* **Cam4.com** - (50/50)
+* **CamModelDirectory.com**: pays 75% of first $500 of the month, 80% thereafter, provides some traffic, must use their processor if the customer found you through CMD. No chargebacks.
+* **LiveCamModelShows.com**: 80% payout, goes to 85% if $100 made that week. Must use their processor if customer found you through LCMS. No chargebacks.
+* **AdultWork.com**: Can use for Skype bookings, make sure member confirms before show begins so you will get paid. 65% payout, no chargebacks.
+* **Niteflirt.com** Use phone with cam listing, pay per minute, 70%, no chargebacks. Phone is used as processor (hang out phone, hang up on skype).
+* **TalkToMe.com** Similar to Niteflirt, pays 50%
