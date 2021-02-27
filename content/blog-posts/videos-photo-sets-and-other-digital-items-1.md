@@ -1,6 +1,6 @@
 ---
 author: Paul Chris Luke
-title: Videos, Photo Sets and other Digital Items
+title: Videos Photo Sets and other Digital Items
 slug: an-essay-on-walking
 date: 2021-02-26T12:00:00-05:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
