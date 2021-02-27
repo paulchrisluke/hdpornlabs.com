@@ -6,83 +6,129 @@ date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
-The majority of sites for selling your adult content take a cut of your sales, the profit split is in the description for these websites. The first number is the sellers cut and the second number is the websites cut of the sale. For example, (75/25) means the seller keeps 75% and the website keeps 25%.
+Please keep in mind that every seller is different and appeals to different markets. Some sellers will be able to charge twice as much and others sellers will be a few dollars short. This guide is just meant to give a normal price range. The golden rule in ANY form of sales is to start high and to negotiate down. You'd be surprised at how many people will be happy to pay the higher price!
 
-Some sites will have different rates for tributes or tips which tend to be more in the sellers favor. Tips are at a higher risk of chargebacks where applicable though, since if someone pays for something by tip, it is harder to prove that they got what they paid for compared to a direct payment. Accepting tips/tributes for services is not recommended.
+## Don't Undervalue Yourself
 
-***
+Many studies have shown that people associate low prices with inferior quality and will almost always purchase a higher priced item because it gives them a sense of pride that they bought the more expensive item....even if the items are exactly the same. It's simple human psychology! We are programed to want the better thing unless we think that we are the only one who got a better deal!
 
-**Please note that these sites often require proof of age by having you send in a photo of your ID. This image is never shared with anyone and is only ever used for administrative purposes.**
-
-**Many sites also require you to show your face on cam/in pics, so as to show that you are the person whose ID was submitted. Be sure to read every websites Terms of Service thoroughly before signing up!**
-
-**These sites will send you a 1099 and you WILL have to file taxes as an independent contractor, which will also require your social security number or tax id (if you are in the United States). For more advice on filing taxes,** [**click here**](https://old.reddit.com/r/sellercirclestage/w/taxes)**.**
+You'll be tempted to make sales by marking down your prices. Please understand how this affects the community over time. Under pricing has become a big issue lately and unfortunately it causes the selling community as a whole to degrade. Buyers will come to expect more for less. There are many selling communities out there where this has become such an issue that there are sellers literally working for pennies. We do not want Reddit to follow suit.
 
 ***
 
-## Hosts for Listings
+## Physical Items
 
-**CamModelDirectory.com**: (75/25 - 80/20) Post ads for camshows, videos, and other services! This site is very hands off when it comes to your shows content or what you are selling. Shows are done via Skype or Yahoo. Ads are free to post, and I don't believe there is a limit to the number of ads you can put up. Ads must be pre-approved before they go live. Ads are sorted by category, so posting ads in as many different categories as possible will increase your chances of being noticed. Each Ad can be placed in up to 5 categories. All ads must have at least one photo but you may list up to five. Face is not required. Ads can also be "bumped" once every five days, which moves your ad up to the top of the list in its category. However you can only bump one ad every five days unless you pay a small fee per month which allows you to bump as many as you'd like as often as you'd like. The site also features paid advertising spots to help you get more exposure.
+### Panties
 
-Payments are sent as a lump sum rather than being billed by the minute. You will supply your buyer your link and they can follow it to make payment with your agreed upon total. When you are paid the payment will appear on your Sales Dashboard along with the username of the buyer. You will also receive an email confirmation but it sometimes takes time to show up so it's best to refer to your Sales Dashboard.
+There are a lot of variables in panty selling such as type of panty, wear time, specialty wear, and add ons. On average 2 days of wear seems the most popular at $35-$45. One day wear averages $25-$35.
 
-Payouts are 75/25 until you reach $500 in a month. After the $500 mark has been reached you will earn 80/20 for the remainder of the month. Everyone resets to 75/25 at the beginning of each month. The site offers a cash bonus to the highest earning model each month and gives free advertising spots to the top 5 highest earners.
+As far as extra wear and add ons go the following is a table of average price:
 
-The site offers good customer service to sellers/buyers.
+* Extra days of wear - $10
+* Specialty/Fetish wear - $10-$20 over base price
+* Extra photos - $2 per photo
 
-**Extralunchmoney.com**: (60/40) Create a profile on ELM and sell videos, mailable goods, and offer services. Face is not required except for your verification photo which is not public. They also offer their own texting service but it is not widely popular. The nice thing about ELM is that for digital content such as videos and photo sets, payments are immediate - When a buyer selects something to purchase, the money is immediately deposited into your ELM account. For all custom orders/services, payments are put into escrow. This means the buyer sends the money before receiving the service, and the site holds the money. The site then puts the payment into your ELM account once you have confirmed that the order's been sent.
+Most sellers include shipping and vacuum sealing (if you have it) with the price. Most sellers offer expedited shipping to buyers if the buyer wants to pay the difference.
 
-This site also features a Customer Request section where buyers create requests and state what they are willing to pay.Sellers then click a button that says they can do it if they would like to fulfill the request. The buyer then chooses from the pool of applicants. Another interesting feature of this site is Seller Goal videos. Sellers are allowed to make a short video stating how many credits they are trying to earn and why. The seller offers something in return like a video in exchange for the credits to help them reach their goal.
+### Pussy Pops
 
-Unfortunately the sellers there have allowed the Buyer Request section to degrade the whole site moneywise. Buyers will list ridiculously low offer prices and sellers will still do the requests. There is money to be made there but you have to be choosy about what you agree to.
+Prices range from $6 to $15 per pussy pop. Many sellers offer discounts for extra pops and offer different pricing for sucked pops, pussy pops, and anal pops.
 
-Customer Service is pretty much non-existent for sellers on this site.
+### Socks, Stockings and Pantyhose
 
-**SkyPrivate**: (75/25-80/20) This website is primarily for camshows, as it includes a Skype plug-in that tracks the duration of shows, and bills the viewer accordingly. This site also takes a 25% cut, but you can drop it to 20% if you refer enough people (buyers or sellers) to the site. SkyPrivate also allows direct payments (rather than by-the-minute charges for shows), which buyers can send in return for other goods and services outside of camshows. If you choose to try SkyPrivate, I highly recommend looking into how it works, as there is a lot to it at first. Once you get familiar with it (doesn't really take long) it's easy to use.
+The average price of socks with 2-3 days of wear is $20-$25. Extras were priced pretty much the same as panties. Most stockings and pantyhose listings were priced the same as socks.
 
-**NiteFlirt.com**: (70/30) Post listings for both phone sex and phone + cam services! You can also sell videos through your listings. Similar to CMD, NF has a variety of categories you can post listings in, so the more listings you make, the more exposure you can get! NF also lets you pay to boost listings, which push your listings up on the list for a period of time. Users will call your phone through the website (callers will NEVER see your phone number), and if it's for a phone + cam show, you will do the show through Skype.
+### Vials of Fluid
 
-**MyGirlFund.com**: (65/35 to start) An advertising platform upon which you can offer camshows, photos, and videos. You are not allowed to sell items or communicate with buyers outside of the site in any way including email. Create a profile, and get paid just to talk to people, too! To create a Profile you must upload a minimum of 5 public profile photos which MUST include your face. It is mandatory that you show your face on this site. MGF is set up a bit like Facebook. You have a "wall" for people to comment and communicate with you on. Each Wall comment that you respond to earns you $1. MGF also had instant chat integrated into the site - You don't get paid to talk through that, but you can set up a per-minute rate if asked to video chat.
+Sellers often price per vial. An average small vial is [this size](http://www.amazon.com/Glass-Vials-Dram-Pack-12/dp/B002JV6976/ref=sr_1_3?ie=UTF8&qid=1413370427&sr=8-3&keywords=glass+vials). Larger containers of liquid are best to be stored in plastic containers like [these](http://www.amazon.com/Clear-Plastic-Jar-With-Lid/dp/B0026HHVS4/ref=sr_1_19?s=arts-crafts&ie=UTF8&qid=1411297469&sr=1-19&keywords=containers+for+mixing+paint).
 
-**PantyZooShop.com**: This is a free advertising platform for panty selling. They do not handle payments, which means you are responsible for figuring out how to get paid yourself (check our payment options post for ideas). On the bright side, since they don't handle payments, and there are no fees to post ads, there is no profit splitting.
+* Grool averages $50-$75
+* Urine average $50-$80
+* Saliva averages $20-$30
+* Period Blood averages $40-$75
+* Scat averages $200
 
-**PantyDeal.com**: Free panty advertising platform for sellers. Like PantyZooShop, they do not handle payments so you will need to choose payment methods that work for you.
+### Toys
 
-**FinDoms.com**: A place for findom/femdom's to promote their services. This is an advertising platform only, so handling payment methods is the responsibility of the seller/service provider. Check our payment options post for ideas.
+Most toys run an average of $30-$200 depending on type and use.
 
-**eBanned.com**: Auction-based site to sell items that are banned from being sold on eBay.
+### Period Items
 
-## Clip Stores
+* Tampons, pads, and liners run $2-$4 each on average.
+* Soft cups average $5 each
+* Towels average $15-$20
+* Pops average $10-$16
 
-**Kinkbomb.com**: (60/40) A great site for selling kinky videos! Payment is automatically made whenever a buyer downloads content. This site is non-interactive so you do not communicate with buyers. You simply upload your content, choose a price, and then it's available for purchase by KB members.
+***
 
-**Clips4Sale.com**: (60/40) Similar to KinkBomb, but buyers can email you to request custom videos, which you can either upload to your page for them to purchase, or they can send you a tribute and you can send them the video directly.
+## Digital Items
 
-**Sutracamp.com**: (70/30) Selling platform similar to clips4sale. Fairly new website with less traffic. Accepts a number of payment options including Bitcoin.
+### Photo Sets
 
-**Yezzclips.com**: (60/40) This is a clipstore, like KinkBomb and Clips4Sale. The big difference is that it welcomes hardcore clips that other sites do not allow, such as scat videos. There is a fee for sellers to receive non-EU payments from the site, but because it is such a niche market, if you offer content that suits the site, it can still be worth using.
+These usually run $1-$3 per photo. Many sellers have a minimum order number (10 seems to be normal) and many have a discount for large orders (20-30 seems to be normal). Consider the quality of your photos and the amount of time spent shooting and editing when you price your photo sets.
 
-**ScatShop.com**: (60/40) A newly opened clipstore, catering to scat fetish content.
+### Custom Videos
 
-More...
+Most sellers price based on content and length. Some sellers do a per minute pricing and others will do a base price for a set amount of time and then add a discounted per minute price. Normal per minute pricing ranges from $4-$10 per minute. $6 seems average.
 
-* **Clipvia.com** (?/?)
-* **IWantClips.com** (?/?)
+For block pricing $50 for 5 minutes and $90 for 10 minutes (usually based on content) seems to be the average.
 
-## Live Camshow Streaming
+Sellers usually offer 2 different rates for custom content vs private content. If a buyer doesn't want a video to be resold, most sellers charge a fee for the sole ownership. This fee tends to range from $25-$200 extra.
 
-**Streamate.com**: (30/70 to start) Very popular 'big box' cam site. They are easy to use and a good place to start camming. They are very strict on content (no taboo, period shows, pee, scat, ect) but it is also possible to sell photos and videos through them.
+### Premade Video
 
-**MyFreeCams.com**: (50/50) Another very popular site, focuses heavily on public chat and tipping as opposed to private shows.
+Premade videos are generally priced at $1-$2 per minute, or higher for fetish content.
 
-**Chaturbate.com**: (50/50) Recommended for newbies as there is no 'score' kept for models, evening the playing field for new models.
+### Cam Shows
 
-**LiveJasmin.com**: (?/?) Very popular site that focuses heavily on camera and picture quality.
+Again this is a service that is also based on content and length. Most sellers set a per minute price and will have minimums however some sellers do have block pricing. Average cost per minute ranges from $3-$5. For block pricing, $60 for 15 minutes is average, or $100 for 30 minutes.
 
-**Camcontacts.com**: (50/50) Less busy than other sites but recommended.
+Sellers often upcharge for fetish shows that require more preparation or clean up.
 
-More...
+### Kik Sexting
 
-* **Cams.com** (\~30/70) - _Tip from_ [_/u/mirabellahue _](https://old.reddit.com/u/mirabellahue)_"You can adjust your percentage (they "say" the highest you get is 45% but it's really 29% after "fees" and you can lower it to 19% after fees saying they "improve your placement" but that is not true, keep it at 45 aka 29%"_
-* **ImLive.com** - (30-35/70-65)
-* **Cam4.com** - (50/50)
+Kik is usually sold either per minute or in block prices. Many sellers have different prices for text only, showing face, or using props. Most sellers have a 10-15 minute minimum. The following prices reflect prices with pictures and videos:
+
+* $2/minute
+* 15 minutes average $30
+* 30 minutes average $55
+* 45 minutes average $75
+* 60 minutes average $100
+
+This service in particular can become very time consuming, don't undervalue your time and efforts. GFE usually requires more attention and sellers charge a higher fee for it.
+
+### Snapchat Subscriptions
+
+This is a photo subscription which seems to be the most popular. Sellers take 5 to 15 photos and videos per day and send each one to all their subscribers. This does not take into consideration people who use it like kik, for sexting, but we recommend using the kik pricing for that.
+
+* Monthly averages $15-20
+* 6-month prices average $50-70
+* Yearly averages $100
+
+### Girlfriend Experience (GFE)
+
+This service can be very involved and time consuming! Be sure to charge accordingly! Many sellers have different options based on how much attention will be given, and if sexting sessions are included or not. Some sellers require a 1-3 days trial before longer can be purchased.
+
+* One day: $50-75
+* One week: $100-250
+* One month (less common): $500-750
+
+### Cock Ratings
+
+Some sellers do text only, some do videos, which can be clothed or frequently have a higher price for nude videos. Many sellers have an option for videos sent over Kik or a more expensive, downloadable HD option.
+
+* Text only: $10
+* Video: Average ranges $20-$60, dependent on length and quality.
+
+### Phone Sex
+
+This is a service that may be based on content and length. Most sellers set a per minute price and will have minimums however some sellers do block pricing. Average cost $2-$5 per minute.
+
+### Domination Tasks
+
+These are one off tasks that do not include a lot of attention. They average at $20-$30 per task.
+
+### Key Holding
+
+* service that does not include a lot of attention - $25-$50 per week
+* More involved service runs $100- $250 per week
