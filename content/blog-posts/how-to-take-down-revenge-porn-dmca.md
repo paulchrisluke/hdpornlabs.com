@@ -7,78 +7,58 @@ hero_image: "/sonja-punz-N47B_zibNGo-unsplash.jpg"
 tags: []
 
 ---
-# \[cam\] - Skype and similar cam shows
+# About DMCA
 
-Cam prices are generally determined based on the content of the show and length. Most sellers price per minute and have a minimum length (often ten minutes). Some sellers utilize block pricing.
+* The Digital Millennium Copyright Act provides protection from copyright infringement lawsuits for service providers. This protection manifests itself in immunity from being sued for infringement, but they must take reasonable and swift action to remedy an infringement once they are notified. Since they do not want to lose their immunity from copyright infringement, if you notify them of an ongoing infringement they will almost always order the website owner to take down the infringing material, or they will. [source](http://www.ipwatchdog.com/2009/07/06/sample-dmca-take-down-letter/id=4501/)
+* DMCA is US Law, and may not be honored by web servers that are housed internationally. However, most web servers are hosted in the US, which means most people can file a claim.
+* hotlinking vs hosting:
 
-The average cost per minute for a solo cam show is $3-5.
+**Hotlinking** is the use of a linked object, often an image, from one site by a web page belonging to a second site. If a website only hotlinks to your content, it means it does not have it stored in its database.
 
-Block pricing tends to average around $60 for 15 minutes, or $100 for 30 minutes.
+**Hosting** is the storing of information, pictures, videos and whathaveyou. If a website hosts your photos, it means it does have it stored in its database.
 
-It is very common to see higher prices for fetish shows, those requiring preparation, or clean up.
+An example you may more easily understand is: Reddit often _hotlinks_ to images that are _hosted_ on imgur.com.
 
-Cam prices also may vary based on equipment. Some sellers use a built-in laptop webcam, while others have a dedicated (and more expensive) webcam and sometimes microphone purchased for camming.
+You may file a DMCA claim for both hosted and hotlinked content.
 
-# \[dom\] - Service where seller is dominant
+# Sending the DMCA Claim
 
-Domination Kik sessions tend to be priced a bit higher than usual Kik costs; the same goes for cam and GFE.
+You are allowed to have a representative send a DMCA takedown notice on your behalf (this is most common for big companies, but it can work on the individual level as well.) It is all in the way you phrase your letter in regards to whether the request is honored.
 
-Domination tasks are usually a single task, sometimes given with photos/video instructions. They typically average $20 per task. Some sellers offer blocks of tasks for a discounted price (e.g. 5 tasks for $80).
+The sample letter has brackets for you to fill in what has been violated, and also brackets that include phrasing for if you chose to present yourself as an authorized representative.
 
-# \[gfe\] - Girlfriend experience
+## required items
 
-Every seller handles GFE differently, and therefore prices vary widely. Some offer more interaction during the day than others. Many offer multiple packages based on the amount of interaction, frequency of chatting, or availability/length of included sexting sessions. Some sellers also require a several day trial before a longer length of time can be purchased.
+Some sites may try to make this process more difficult than it needs to be, claiming you have to do extra things in order for them to honor your request. All you need to know is that your takedown notice needs to have the following information in it:
 
-A one day GFE averages $50-$75.
+1. It must specify the content that you believe to be infringing upon your intellectual property rights.
+2. You must state that your complaint is being made in “good faith”
+3. You must also state, that “under penalty of perjury, that the information contained in the notification is accurate”*
+4. You must state that you have legal right to take such, and further, action as the copyright owner or agent of the same.
+5. It must include accurate contact information.*
+6. It must be signed(electronic signature is fine)
 
-One week is one of the most common offerings, at $100-$250.
+\*please see "providing fake vs. real information
 
-Some sellers advertise month-long GFEs, averaging $500-$750.
+## sample letter
 
-# \[kik\] - Sexting and other Kik services
+I am \[the exclusive rights holder / the duly authorized representative of the exclusive rights holder\] for \[type of media being violated; photos, videos, etc.\];
 
-Similar to cam, Kik is typically sold per minute or in block prices. Many sellers have different prices for text only sessions, video heavy sessions, showing face, or using props/toys. An additional fee for outfit requests or clean up is also common. Most sellers have a 10-15 minute minimum. The following averages reflect sessions prices that are specified with pictures and videos:
+1. These exclusive rights are being violated by material available upon your site at the following URL(s): \[URLs of infringing material\];
+2. I have a good faith belief that the use of this material in such a fashion is not authorized by the copyright holder, the copyright holder's agent, or applicable law;
+3. Under penalty of perjury in a United States court of law, I certify that the information contained in this notification is accurate, and that I am authorized to act \[on behalf of the holder of the exclusive rights\] to the material in question;
+4. I may be contacted by the following method: \[email/phone/etc. Only use what you use for work, such as an email address. Most places will notify you here that they've honored your request.\];
 
-* $2/minute
-* 15 minutes: $30
-* 30 minutes: $55
-* 45 minutes:$75
-* 60 minutes: $100
+I hereby request that you remove or disable access to this material as it appears on your service in as expedient a fashion as possible. Thank you.
 
-# \[pic\] - Pictures for sale
+Regards,
 
-Photo sets generally run $1-$3 per photos. A minimum order number is very common, with 10 photos being the norm. Some sellers offer a discount for large photosets, such as 20+ photos.
+\[Name\]
 
-# \[pty\] - Panties
+## Fake vs. Real Information
 
-Panty prices are affected by variables such as the cost of the panty, wear time, fetishes (such as pee/scat), and other add ons. One day wear averages $35. Two day wears average $45.
+When filing a DMCA claim, it is recommended you use fake information if you wish to remain anonymous about your sex work. There is no way for them to know your information is real to begin with, and just by sending the DCMA you're confirming you have the right to make the claim. Whatever information you provide in the DMCA claim gets sent to the infringer. And while they are legally required to remove your content, information is power and they could distribute that information as a means of "getting back" at you.
 
-Extra days of wear average $10. Many sellers have a limit on how many days they will wear a pair of panties.
+[/u/legendarylootz](https://old.reddit.com/u/legendarylootz)[ ](javascript:void 0 "set a tag")once sent a DMCA claim with fake information about a video, and the video was rehosted with the information (her "name") in the title.
 
-Extra photos, usually while wearing the panties, average $2 per photo.
-
-Some sellers include shipping in the price, but not all. Many will offer expedited shipping (such as overnight) if the buyer wants to pay the difference.
-
-# \[rate\] - Cock/body rates
-
-Cock rates are frequently offered as text only or video. Videos can be clothed, nude, and offered as short Kik videos or a more expensive, downloadable video.
-
-The average price for a text only rate is $10.
-
-The average price for video rates ranges from $20-$60, depending on length and the quality of video. Some sellers have much shorter videos than others, and some use professional filming equipment for cock rates.
-
-# \[snp\] - Snapchat subscriptions
-
-Many sellers will run their Premium Snapchat in different ways. Some offer daily photos, some offer a show a few times a week, and anything in between. Some sellers send photos directly and some just post to a story. Additionally, some sellers include chatting and allow screenshots while others do not.
-
-Monthly subscriptions average $15-$20. Six months averages $50-$70. A year long subscription averages $100.
-
-# \[vid\] - Custom and premade videos
-
-Custom videos are generally priced based on content and length. Many sellers price by minute, usually ranging from $4-$10 per minute, which the average at $6 per minute. Factors such as camera contribute to the wide range of prices.
-
-Some sellers use block pricing, averaging about $50 for approximately five minutes, or $90 for a ten minute video.
-
-Custom video pricing usually assumes that the video can be resold unless specified otherwise. Many will charge an exclusive fee if they cannot resell the video, due to buyer request or the content on the video. Name use can also require a video to be exclusive, or have a higher fee. Exclusive fees can be a flat fee anywhere from $25-$200, or can be an increased per minute price.
-
-Premade videos are generally priced near $1 per minute.
+Another tactic you use use is attach a fake real-sounding name to your adult content usernames and aliases. This way, should your content be rehosted, it could be used to build a following and benefit you.
