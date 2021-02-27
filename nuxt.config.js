@@ -1,14 +1,14 @@
-import path from "path";
+import path from 'path';
 /* eslint-disable */
 const glob = require('glob');
-const config = require("./content/data/config.json")
+const config = require('./content/data/config.json');
 /* eslin-enable */
 const dynamicRoutes = getDynamicPaths({
-  '/blog': 'content/blog-posts/*.md',
- });
+  '/blog': 'content/blog-posts/*.md'
+});
 
 export default {
-  mode: 'universal',
+  target: 'static',
   /*
    ** Headers of the page
    */
@@ -47,7 +47,10 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: ['@nuxtjs/gtm'],
+  gtm: {
+    id: 'GTM-KKPGLLV'
+  },
   /*
    ** Build configuration
    */
@@ -55,19 +58,18 @@ export default {
     /*
      ** Using frontmatter-markdown-loader here to parse md files
      */
-    extend(config, ctx) {  
-      config.module.rules.push(
-      {
-          test: /\.md$/,
-          loader: "frontmatter-markdown-loader",
-          include: path.resolve(__dirname, "content/blog-posts")
-      })
-    }    
+    extend(config, ctx) {
+      config.module.rules.push({
+        test: /\.md$/,
+        loader: 'frontmatter-markdown-loader',
+        include: path.resolve(__dirname, 'content/blog-posts')
+      });
+    }
   },
   generate: {
     routes: dynamicRoutes
   }
-}
+};
 /**
  * Create an array of URLs from a list of files
  * @param {*} urlFilepathTable
@@ -76,12 +78,12 @@ export default {
 /* referenced https://github.com/jake-101/bael-template */
 function getDynamicPaths(urlFilepathTable) {
   return [].concat(
-    ...Object.keys(urlFilepathTable).map(url => {
+    ...Object.keys(urlFilepathTable).map((url) => {
       const filepathGlob = urlFilepathTable[url];
       const routes = glob
         .sync(filepathGlob)
-        .map(filepath => `${url}/${path.basename(filepath, '.md')}`);
-      return routes
+        .map((filepath) => `${url}/${path.basename(filepath, '.md')}`);
+      return routes;
     })
   );
 }
