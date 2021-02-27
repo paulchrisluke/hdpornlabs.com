@@ -1,9 +1,10 @@
 ---
 author: Paul Chris Luke
-title: Videos, Photo Sets and other Digital Items
+title: Videos, Photo Sets and other Digital Items DELETE
 slug: an-essay-on-walking
 date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+tags: []
 
 ---
 # \[cam\] - Skype and similar cam shows
