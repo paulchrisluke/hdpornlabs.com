@@ -1,9 +1,10 @@
 ---
 author: Paul Chris Luke
-title: Canadians - Opening an American Bank Account
+title: Canadians - Opening an American Bank Account DELETE
 slug: an-essay-on-walking
 date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+tags: []
 
 ---
 Do you feel limited with your payment options, compared to what our American friends are able to offer and accept? Are you sick of receiving snail mail checks from camsites and clipsites who don't offer better international payout methods?
