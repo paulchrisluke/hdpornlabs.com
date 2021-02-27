@@ -1,9 +1,10 @@
 ---
 author: Paul Chris Luke
-title: How to Take Down Revenge Porn (DMCA)
+title: How to Take Down Revenge Porn (DMCA) DELETE
 slug: an-essay-on-walking
 date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+tags: []
 
 ---
 # About DMCA
