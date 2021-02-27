@@ -30,6 +30,7 @@ fields:
   name: hero_image
   label: hero_image
 pages:
+- content/blog-posts/adult-content-tax-filing-tips.md
 - content/blog-posts/adult-friendly-payment-methods.md
 - content/blog-posts/an-essay-on-walking.md
 - content/blog-posts/bitcoin-guide-for-adult-services.md
