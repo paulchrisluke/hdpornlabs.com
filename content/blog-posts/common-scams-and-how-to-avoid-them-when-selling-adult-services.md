@@ -6,21 +6,52 @@ date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
-This page covers both how to stay safe while conducting your business on the internet and how to keep your business private from your friends and family.
-
-* **Create a New Identity** The first thing you should do to protect your identity online is create new usernames and accounts for absolutely everything. Your name, your e-mail, reddit username, paypal accounts, bank accounts, kik and snapchat usernames etc should all be kept separate from your personal life.
-* **Remove MetaData From Your Photos and Videos** Some phones and cameras store geographic information with your images and videos. Uploading to websites like Imgur will remove all metadata for you but you should still be cautious and check the information saved with your files before sharing with buyers. You should also turn off location services for your smartphone and camera to avoid having that information recorded.
-* **Do not Link PayPal with Your Selling E-mail** If you are going to use Paypal to accept GiftRocket gift cards, do not add your selling e-mail to your PayPal account. If by chance a buyer fails to follow your directions for payment and sends a PayPal payment to you instead of a GiftRocket or any other method, your full name that is associated with your PayPal will become visible to them. GiftRocket gift cards should first be e-mailed to your selling e-mail account, then redeemed using your PayPal e-mail. This is the absolute fool-proof way to keep you safe when accepting GiftRocket.
-* **Remove Identifying Information from Photos** When taking photos for your listings and GoneWild subreddits, crop out or remove any identifying information from the background. A school logo, a bag from a local store, or a state or town calendar could all lead to someone figuring out where you live and more. When taking photos near windows be sure no geographically identifying landmarks are in the shot.
-* **Hide Your IP Address** Search Google for VPNs (Virtual Private Networks) and install one or use an online version to cloak your internet activity. Never click on links sent to you by buyers unless you have double checked that the link will lead to a site you trust like Imgur or Amazon. Visiting any site and clicking on any link puts you at risk of having your IP address recorded which can very accurately determine your location. Skype and Bitcoin Wallets have both been used in the past to attempt to record the IP address of sellers either as an attempt to blackmail or stalk users. Attempting to log into another persons Bitcoin wallet will send the owner of the wallet all of the information associated with the computer that made the log in attempt.
-* **Avoid Having Buyers Purchase Items Directly From Your Wishlists** It is the case with Amazon that purchasing certain products will provide the buyer with your shipping address for verification. There are settings and tricks for protecting yourself but, to guarantee that no buyer will ever see your personal information, you can create a new Amazon account with no shipping information saved and accept Amazon gift cards to purchase the items yourself instead.
-* **Never Write Your Real Return Address on Packages** There are a few options for what to write on your packages. The best option to ensure no lost packages and no funny looks at the post office is to purchase a PO Box for your selling. Some colleges and universities have USPS offices on site and offer cheaper PO Box options. The next best option is to write the buyer's address as both the recipient and return address. In theory, this means the buyer will receive the package no matter what. Some offices may ask you to relabel the package if they find that unacceptable, the last option is to use the address of a local grocery store, walmart, etc. Be prepared with an address to use or look one up just be sure to notify your buyers that you are not responsible for lost packages.
-* **Social Media** If you are not insanely tied to your social media accounts delete them. If you are really tied to them, set up the privacy so it's on ultra private. Most of that can be done in the settings.
+Not everyone you encounter in your selling will have the best of intentions. These are the most common scams and advice for how to avoid having them successfully used on you. For all of our tips on Safety and Privacy, [click here](https://old.reddit.com/r/sellercirclestage/w/safety).
 
 ***
 
-## Privacy from Friends, Family, Future Employers
+## Cancelling Payments
 
-* **Think Before Choosing to Watermark Your Photos** For many the idea to watermark your username on your photos will be an obvious advantage. You can not control where your images will be uploaded on the internet and you can at least get some credit for your work if your name is on them. However, for some who are hiding their adult business from friends and family, the risk outweighs the benefit. Before watermarking, consider whether you would prefer someone recognize a random naked photo of you on the internet or someone recognize you and get linked to your reddit username, exposing your adult business as well.
-* **Be Mindful of What Future Employers Can Discover** All legitimate adult camming and selling websites will issue a 1099 or similar tax form at the end of the year. Future employers may have access to your employment and tax record. Be sure you are comfortable with that before choosing to expand your business to an adult website.
-* **Removing MORE Identifying Information from Photos** We already discussed removing items and scenery from your photos that can link to your real identity but you should also consider removing identifiable clothing, furniture and decorations so that those who know you in real life will have a harder time recognizing you from your photos.
+This happens when a buyer sends you a payment, receives your product or service, then cancels the payment and repossesses his funds. It is most often used with GiftRocket gift cards which take anywhere from hours to days to finalize and clear into your accounts depending on which method you've used to claim them.
+
+You should **never** provide an item or service until your funds are definitively in your accounts and belong to you. If you must, only offer exceptions to buyers that you have worked with in the past and trust.
+
+For a list of pros and cons of various payment methods, including information about which methods provide instantly available funds to you, [click here](https://old.reddit.com/r/sellercirclestage/w/paymentmethods). The most popular alternative to GiftRocket is Amazon which finalizes instantly when redeemed and Bitcoin.
+
+## Providing Fraudulent GiftCard Codes
+
+This happens when a buyer insists that he is unable to purchase a giftcard through 'regular' means (providing an official e-mail from the giftcard provider to your inbox) and must e-mail or PM you the code to the giftcard instead. In some cases, the buyer can report the code as stolen or the giftcard as fraudulently purchased raising suspicions about you and the validity of your accounts.
+
+You should only redeem cards that have been purchased from the official retailers website and sent directly to your e-mail. Amazon gift cards are available for purchase internationally and can be sent to you even if you are located in a different country as the buyer.
+
+## Fishing for Free Content
+
+This scam takes many shapes and forms. Some users will PM you to discuss the gritty details of their order, getting off to the discussion of your service rather than paying for it. You may be contacted by users who demand that you prove your trustworthiness to them by sending them nude or very specific 'verification photos'. Other buyers have been known to place an order and then refuse to send payment until they see 'previews' of the item or service so they know what they're getting.
+
+Always ask for full payment _before_ beginning to work on or delivering a product. If a buyer needs your verification, send them clothed photos or obtain your official verification from your selling subreddit of choice. Additional info on avoiding time wasters can be found [here](https://redd.it/dal3vj).
+
+## New Websites Looking to Recruit
+
+You will receive PMs from new or established websites that are looking to recruit new models, pantysellers, cam girls, etc. While some of these PMs will be legitimate, the vast majority will not be. Real established websites will most likely not be contacting you via Reddit PM to recruit you.
+
+Do not offer any personal information or samples of your work or services until you've verified that the business contacting you is legitimate. Refrain from clicking on links sent to you via PM as they may be used to obtain your IP address and attempt to blackmail or stalk you. Message the moderators of the sub they found you on or message Reddit admins directly at [/r/reddit.com](https://old.reddit.com/r/reddit.com) to report spam and attempts to take advantage of you.
+
+## IP Fishing
+
+This was just mentioned briefly but it entails a person attempting to gather your IP information in order to blackmail or stalk you. There are a number of ways that this can be done. The most important thing to know is that every website you visit is able to see your IP information unless you are using a Virtual Private Network (VPN) to cloak your IP.
+
+Do not click on any suspicious links in PMs. If you hover over a link and the script doesn't show that it leads to a site that you know and trust, do not click it. If a user attempts to have you fill out a survey, do not fill it out for them. If a user attempts to have you log into their Bitcoin wallet, do not do it. These are all ways that users have attempted to fish IP addresses with. If you are able to use a VPN, please do.
+
+## Faked Blackmail
+
+_First, if anyone is attempting to blackmail you, real or fake, report them to Reddit admins and the Internet Crime Complaint Center if you're comfortable giving your information to law enforcement._
+
+This scam is an old one that currently resurfaced. A user sends you a message telling you they've found your Facebook account or other personal information like IP address. They tell you they are going to tell/show your friends and family your photos if you don't respond and give them x, y, and z. This message may have a link in it that leads to your Facebook profile. This link will take any person to the Facebook page they are currently logged in as. If you are not logged into your Facebook profile, this link will take you to the Facebook home page.
+
+Do not respond to threats. Contact Reddit admins and check the links in the message **without clicking on them** to see if they lead to suspicious websites or to faked personal information. Be vigilant, blackmail can take many forms. For tips on keeping your identity safe, [click here](https://old.reddit.com/r/sellercirclestage/w/safety).
+
+## Buyers Uploading/Profiting from Your Work
+
+Unfortunately, our buyers aren't always as trustworthy as we'd like them to be. You should be searching the internet regularly for your username and aliases and reverse image searching your photos to see if your content is being shared without your consent. It is inevitable that any photos you post publicly will be linked to all over the internet. However, it is not an accepted or condoned practice to share the images and videos you are selling privately.
+
+Watermark your content if you are comfortable with your reddit name travelling around the internet. Include a basic disclaimer in listings or as an attachment about your ownership of the product. For a detailed description of how to file a DMCA Takedown Notice and have your images and videos removed from the internet, [click here](https://old.reddit.com/r/sellercirclestage/w/dmca).
